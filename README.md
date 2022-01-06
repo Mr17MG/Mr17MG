@@ -66,7 +66,7 @@
 <br />
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Mr17MG&theme=radical&show_icons=true" width="410"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr17MG&layout=compact&theme=radical" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr17MG&layout=compact&theme=radical" width="410" />
 </p>
 
 <!--

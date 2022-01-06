@@ -7,8 +7,7 @@
 <a href="https://www.linkedin.com/in/mohammad-golkar"><img src="https://img.shields.io/badge/linkedin-1e90ff?style=for-the-badge&logo=linkedin&logoColor=white alt="Linkedin" /></a>
 </p>
 
-<p align="center">Qt/QML Developer, C++ And PHP Programmer</p>
-
+<p align="center"> <b>Qt/QML Developer, C++ And PHP Programmer</b></p>
 <h2 align="center">My favorite projects</h2>
 <br />
 

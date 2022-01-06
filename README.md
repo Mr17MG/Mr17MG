@@ -6,10 +6,8 @@
 <a href="https://gitlab.com/Mr17MG"><img src="https://img.shields.io/badge/Gitlab-ffc04d?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab" /></a>
 <a href="https://www.linkedin.com/in/mohammad-golkar"><img src="https://img.shields.io/badge/linkedin-1e90ff?style=for-the-badge&logo=linkedin&logoColor=white alt="Linkedin" /></a>
 </p>
-<br />
 
 <p align="center">Qt/QML Developer, C++ And PHP Programmer</p>
-<br />
 
 <h2 align="center">My favorite projects</h2>
 <br />

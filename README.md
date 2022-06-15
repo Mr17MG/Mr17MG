@@ -15,6 +15,9 @@
 <a href="https://github.com/Mr17MG/Memorito">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr17MG&repo=Memorito&theme=radical" />
 </a>
+  <a href="https://github.com/Mr17MG/Memorito-API">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr17MG&repo=Memorito-API&theme=radical" />
+</a>
 <a href="https://github.com/Mr17MG/qt6book">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr17MG&repo=qt6book&theme=radical" />
 </a>
